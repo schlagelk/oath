@@ -15,7 +15,7 @@ Therefore, I promise that:
 
 I will cause no unnecessary harm by creating functionality that already exists or has no purpose.
 
-I will never take of advantage of the ignorance of those outside of my field regarding complex technical matters.
+I will never take advantage of the ignorance of those outside of my field regarding complex technical matters.
 
 I will be conscious of the probabilistic risk I may introduce into my systems.
 
