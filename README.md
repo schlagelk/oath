@@ -27,7 +27,7 @@ I will not advance the use of technological solutions which I myself do not unde
 
 I will refrain from giving in to pressures which compromise the integrity of our field and will report requests to do so to my leaders.
 
-I will invest in the growth of myself and others in my field by continuing to advance ethical behavior in our professions and while creating valuable technologies.
+I will invest in the growth of myself and others in my field by continuing to advance ethical behavior in our profession while continuing to create valuable technologies.
 
 **This oath I make freely, and upon my honor**
 
